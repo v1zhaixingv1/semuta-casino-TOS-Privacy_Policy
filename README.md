@@ -28,7 +28,7 @@ These Terms of Service (“Terms”) govern your use of the Semuta Casino Bot (�
 
 ## Changes & Contact  
 - Terms may be updated at any time; material changes will be posted in the repository or support server. Continued use after changes constitutes acceptance.  
-- For questions or disputes, contact: `support@discordcasino.example` or the linked support server.
+- For questions or disputes, contact: `fattercatechoes@gmail.com` or the linked support server.
 
 ---
 
@@ -75,5 +75,5 @@ This Privacy Policy explains what data the Semuta Casino Bot (“Bot”) collect
 - Policy updates will be posted in this repository or announced via the support server. Continued use after updates constitutes acceptance.
 
 ## Contact  
-- Email: `privacy@discordcasino.example`  
-- Support server: `https://discord.gg/your-support-server`
+- Email: `fattercatechoes@gmail.com`  
+- Support server: `https://discord.gg/semutaofdune`
